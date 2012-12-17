@@ -1,3 +1,7 @@
+TODO:
+-design layout of site (simple)
+-should be quick!
+
 A site about me. I should probably have gotten this going a while ago.
 
 Something I'll probably work on during break.
