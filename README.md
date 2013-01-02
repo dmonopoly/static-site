@@ -1,4 +1,4 @@
-basic site structure
+basic site structure - just a setup
 
 ### Testing stuff
 
